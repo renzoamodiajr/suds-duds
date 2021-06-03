@@ -1,0 +1,11 @@
+
+.w3-container{max-width: 100%!important;margin-left: 276px;}
+#logo{margin-left: 0;}
+.w3-content{height: 100%;}
+#main-content{height: 100%;}
+.w3-padding-16{text-align: center;}
+
+.navbar, .card{box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);}
+.current_page{color: #000!important;background-color: #ccc!important;}
+
+.has-error, .has-error:focus{border-color: #fe8686;box-shadow: 0 0 0 0.25rem rgb(253 13 13 / 25%);}
